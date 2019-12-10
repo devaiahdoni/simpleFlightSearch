@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.fight;
 
 import java.io.File;
 import java.io.IOException;

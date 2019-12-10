@@ -5,8 +5,8 @@ import java.util.List;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.example.demo.FlightsearchApplication;
 import com.example.entity.FlightDetail;
+import com.example.fight.FlightsearchApplication;
 import com.example.util.FlightSearchUtil;
 
 @Controller

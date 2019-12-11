@@ -28,8 +28,8 @@ public class FlightsearchApplication implements CommandLineRunner{
         //create ObjectMapper instance
         ObjectMapper objectMapper = new ObjectMapper();
         flights = objectMapper.readValue(new File("src/main/resources/flight-sample.json"), FlightDetail[].class);
-        for (FlightDetail flight : flights) {
-        	System.out.println(flight);
-        }
+//        for (FlightDetail flight : flights) {
+//        	System.out.println(flight);
+//        }
 	}
 }

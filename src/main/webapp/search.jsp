@@ -18,11 +18,6 @@
 				<td><input name="origin"> Destination : <input
 					name="destination"></td>
 			</tr>
-			<tr>
-				<td>Date :</td>
-				<td><form:input type="date" path="arrival" />
-				</td>
-			<tr>
 		</table>
 		<input type="submit">
 	</form>

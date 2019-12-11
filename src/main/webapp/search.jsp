@@ -20,7 +20,8 @@
 			</tr>
 			<tr>
 				<td>Date :</td>
-				<td><input name="Destination"></td>
+				<td><form:input type="date" path="arrival" />
+				</td>
 			<tr>
 		</table>
 		<input type="submit">

@@ -143,6 +143,18 @@
     "distance": 925,
     "travelTime": "02:41",
     "status": "On Time"
+  },
+  {
+    "flightNumber": "11283",
+    "carrier": "UA",
+    "origin": "JFK",
+    "departure": "2018-01-31T14:05:00",
+    "destination": "IAH",
+    "arrival": "2018-01-31T16:52:00",
+    "aircraft": "Boeing 737-800",
+    "distance": 925,
+    "travelTime": "02:41",
+    "status": "On Time"
   }
 
 ]

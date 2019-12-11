@@ -13,7 +13,7 @@ import com.example.util.FlightSearchUtil;
 @Controller
 public class SearchController {
 
-	@RequestMapping("search")
+	@RequestMapping("/")
 	public String search() {
 		return "search";
 	}

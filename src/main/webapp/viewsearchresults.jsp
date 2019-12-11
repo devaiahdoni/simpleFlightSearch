@@ -54,7 +54,7 @@ table, th, td {
 		<h1>Flights not found for the search criteria</h1>
 		</c:if>
 		
-		<a href="/search">search</a>
+		<a href="/">search</a>
 	</form>
 </body>
 </html>
